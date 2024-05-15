@@ -1,6 +1,6 @@
 # Famous Faces Challenge
 
-![![Famous Faces Challenge Logo](https://i.ibb.co/PWsg5G1/icon-star.png)](https://ibb.co/)
+(https://i.ibb.co/PWsg5G1/icon-star.png)](https://ibb.co/)
 
 
 
