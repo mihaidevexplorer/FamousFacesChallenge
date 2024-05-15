@@ -30,8 +30,6 @@ This fun and captivating Android app has been appreciated by users for its intri
 [![Image](https://i.ibb.co/KVHsn9d/img4.jpg)](https://ibb.co/3SHFK02)
 [![Screenshot 5](https://i.ibb.co/R32JZz8/img5.jpg)](https://ibb.co/GW7rBcm)
 
-
-
 ## How to Use
 
 To get started, download and install the app on your Android device. Then, follow the on-screen instructions to begin the Famous Faces Challenge!
