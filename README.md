@@ -24,7 +24,8 @@ This fun and captivating Android app has been appreciated by users for its intri
 
 ## Screenshots
 
-![Screenshot 1](https://ibb.co/P4JsGTc)
+[![Screenshot 1](https://i.ibb.co/pZN6jWf/img1.jpg)](https://ibb.co/P4JsGTc)
+
 ![Screenshot 2](https://ibb.co/qJNHmyX)
 ![Screenshot 3](https://ibb.co/swHjsGH)
 ![Screenshot 4](https://ibb.co/3SHFK02)
