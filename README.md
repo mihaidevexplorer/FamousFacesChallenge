@@ -23,8 +23,9 @@
 This fun and captivating Android app has been appreciated by users for its intriguing challenges and intuitive interface. This experience allowed me to demonstrate strong programming skills and problem-solving abilities, as well as gain experience in using various Android technologies.
 
 ## Screenshots
+[![Screenshot 1](https://i.ibb.co/pZN6jWf/img1.jpg)](https://ibb.co/P4JsGTc) [![Image 1](https://i.ibb.co/RHNkQ3v/image1.jpg)](https://ibb.co/RHNkQ3v) [![Image 2](https://i.ibb.co/hWtxPGJ/image2.jpg)](https://ibb.co/hWtxPGJ) [![Image 3](https://i.ibb.co/16Xr7ZT/image3.jpg)](https://ibb.co/16Xr7ZT) [![Screenshot 5](https://i.ibb.co/R32JZz8/img5.jpg)](https://ibb.co/GW7rBcm)
 
-[![Screenshot 1](https://i.ibb.co/pZN6jWf/img1.jpg)](https://ibb.co/P4JsGTc) [![Screenshot 2](https://i.ibb.co/hYBG27h/img2.jpg)](https://ibb.co/qJNHmyX) [![Screenshot 3](https://i.ibb.co/7W4vr54/img3.jpg)](https://ibb.co/swHjsGH)[![Screenshot 4](https://i.ibb.co/KVHsn9d/img4.jpg)](https://ibb.co/3SHFK02)[![Screenshot 5](https://i.ibb.co/R32JZz8/img5.jpg)](https://ibb.co/GW7rBcm)
+
 
 
 
